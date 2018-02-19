@@ -1,3 +1,5 @@
+![alt text](http://portfolio.bruindev.com/media/rocket-computer.png)
+
 ## Rocket SEO is a landing page that was built as a fun project.
 
 ## The Story ##
