@@ -1,6 +1,6 @@
-![alt text](http://portfolio.bruindev.com/media/rocket-computer.png)
-
 ## Rocket SEO is a landing page that was built as a fun project.
+
+![alt text](https://haydenbruin.com/media/rocket-computer.png)
 
 ## The Story ##
 This theme is a purchased .PSD from themeforest which I have converted into HTML / CSS. I have used gulp.js to minify stylesheets & javascript in order to keep load times down.
